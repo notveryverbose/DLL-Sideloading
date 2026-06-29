@@ -1,0 +1,1 @@
+C:\Users\Ahmed\Desktop\Abominations\Miscellaneous\Backdoor-Project\Implant\telemetryhost\target\release\version.dll: C:\Users\Ahmed\Desktop\Abominations\Miscellaneous\Backdoor-Project\Implant\telemetryhost\src\lib.rs
