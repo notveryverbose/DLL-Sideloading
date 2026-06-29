@@ -1,0 +1,27 @@
+[package]
+name = "telemetryhost"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-std = "1.13.1"
+chrono = {version = "0.4.41", features=["serde"]}
+names = "0.14.0"
+reqwest = {version="0.12.19", features=["json"]}
+serde = { version = "1.0.219", features = ["std", "derive", "serde_derive"] }
+serde_json = "1.0.140"
+tokio = {version="1.45.1", features=["full"]}
+uuid = {version = "1.17.0", features=["v4", "serde"]}
+whoami = "1.6.0"
+[profile.release]
+opt-level = "z"          # “size”-optimized; you can also use 3 for max speed
+lto = true               # link-time optimization
+codegen-units = 1        # single codegen unit → better inlining
+debug = false            # no DWARF debug info
+overflow-checks = false  # remove integer overflow checks
+panic = "abort"          # no unwinding, smaller panic tables
+strip = true
+
+[lib]
+name = "version"
+crate-type = ["cdylib"]
